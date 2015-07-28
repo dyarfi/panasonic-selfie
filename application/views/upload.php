@@ -14,16 +14,14 @@
 		<div id="sizeBox">
 			
 		</div>
-		<p class="text-center posit2">
-			
+		<p class="text-center posit2">			
 			<div class="img_holder_xhr text-center">				
 				<div class="img-thumbnail">
 					<a class="colorbox" href="<?=base_url();?>assets/public/img/unggah.jpg">
 						<img src="<?=base_url();?>assets/public/img/unggah.jpg" alt="" />
 					</a>	
 				</div>
-			</div>
-			
+			</div>			
 		</p>
 		<div class="text-center">
 			<!-- The global progress bar -->
